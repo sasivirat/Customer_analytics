@@ -40,3 +40,13 @@ Deep Learning
 Tensorflow
 
 - https://sasikishorevarma.my.canva.site/
+- 
+[![Blog](https://img.shields.io/badge/Blog-Read%20Here-brightgreen)](https://medium.com/@sasi.virat1997/how-to-combine-pca-and-k-means-clustering-in-python-9833b051261d)
+
+## Blogs  
+
+[![Principal Components Analysis](https://img.shields.io/badge/-Principal%20Components%20Analysis-teal?style=for-the-badge&logo=medium)](https://medium.com/@sasi.virat1997/what-is-principal-components-analysis-bc9c16f22440)  
+[![Price Elasticity](https://img.shields.io/badge/-Price%20Elasticity-teal?style=for-the-badge&logo=medium)](https://medium.com/@sasi.virat1997/what-is-price-elasticity-40eec6d7f1b3)  
+[![Marketing Mix](https://img.shields.io/badge/-Marketing%20Mix-teal?style=for-the-badge&logo=medium)](https://medium.com/@sasi.virat1997/understanding-marketing-mix-how-does-it-work-afacaf62bbf8)  
+[![STP Framework](https://img.shields.io/badge/-STP%20Framework-teal?style=for-the-badge&logo=medium)](https://medium.com/@sasi.virat1997/the-stp-framework-explained-3-easy-steps-to-success-c438cd1501bf)  
+[![Customer Predictive Analytics](https://img.shields.io/badge/-Customer%20Predictive%20Analytics-teal?style=for-the-badge&logo=medium)](https://medium.com/@sasi.virat1997/customer-predictive-analytics-f8f7671469b3)  
